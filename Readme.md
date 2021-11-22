@@ -20,6 +20,6 @@ Efter varje konsonant så lägger du till ett o och sedan konsonanten igen.
 
 - låt användaren välja om den vill översätta mer text efter den första inmatningen är klar.
 - Låt användaren översätta en fil (se sid 217 i boken hur en Scanner kan läsa från en fil).
-- Skriv din översättare som en metod (public static String translate(String text){})
+- Skriv din översättare som en metod (public static String translate(String text){}, se kapitel 8)
 - Spara resultatet i en fil istället för att skriva ut det på skärmen (Se avsnitt 10.2).
 - Översätt till andra språk?
